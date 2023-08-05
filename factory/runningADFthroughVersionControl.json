@@ -1,0 +1,9 @@
+{
+	"name": "runningADFthroughVersionControl",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "74fdf982-b479-4343-8954-b0b80d07d6e1",
+		"tenantId": "b668d6df-f625-425d-83fd-63397982e5a5"
+	}
+}
